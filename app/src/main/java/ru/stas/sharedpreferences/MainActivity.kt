@@ -38,7 +38,6 @@ class MainActivity : AppCompatActivity() {
             binding.etName.setText(name)
             binding.etAge.setText(age.toString())
             binding.cbAdult.isChecked = isAdult
-
         }
     }
 }
